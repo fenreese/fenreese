@@ -11,3 +11,6 @@ When I'm not developing, I play rhythm games (and sometimes FPS games) and liste
 <br><br>
 <img alt="Rust" src="https://img.shields.io/badge/Rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
+
+<!-- lastfm -->
+
