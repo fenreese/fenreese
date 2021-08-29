@@ -1,7 +1,7 @@
 <h1>Welcome to my profile! 👋</h1>
 <img src="penguin.webp" alt="dancing penguin" align="right" width="40%">
 <br>
-<p align="center"><b>Jelly | they/them | 20</b></p>
+<p align="center"><b>Jelly | they/them | 21</b></p>
 <p>
 Also known as Reese, I'm a second year university student with a year of development under my belt. I program whatever interests/bothers me at the moment.
 <br><br>
