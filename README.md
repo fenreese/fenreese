@@ -5,7 +5,7 @@
 <p>
 I'm a second year university student with a year of development under my belt. I program whatever interests/bothers me at the moment.
 <br><br>
-Right now, I like <s><a href="https://kprofiles.com/karina-aespa-profile/">Aespa's Karina</a>,</s> <a href="https://www.rust-lang.org/">Rust</a> and <a href="https://www.typescriptlang.org/">TypeScript</a>. I'm also familiar with Java, Python, C++, and the HTML/CSS/JS stack.
+Right now, I like <a href="https://www.rust-lang.org/">Rust</a> and <a href="https://www.typescriptlang.org/">TypeScript</a>. I'm also familiar with Java, Python, C++, and the HTML/CSS/JS stack.
 <br><br>
 When I'm not developing, I play rhythm games (and sometimes FPS games) and listen to music (you can find out my music taste <a href="https://www.last.fm/user/i-dle">here~</a>).
 <br><br>
