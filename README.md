@@ -3,11 +3,13 @@
 <br>
 <p align="center"><b>Reese | they/she | 21</b></p>
 <p>
-I'm a second year university student with a year of development under my belt. I program whatever interests/bothers me at the moment.
+I'm a third year university student with a year of development under my belt. I program whatever interests/bothers me at the moment.
 <br><br>
 Right now, I like <a href="https://www.rust-lang.org/">Rust</a> and <a href="https://www.typescriptlang.org/">TypeScript</a>. I'm also familiar with Java, Python, C++, and the HTML/CSS/JS stack.
 <br><br>
 When I'm not developing, I play rhythm games (and sometimes FPS games) and listen to music (you can find out my music taste <a href="https://www.last.fm/user/i-dle">here~</a>).
+<br><br>
+I've been committing more frequently over at <a href="https://gitlab.com/rissu">GitLab</a>, if you wanted to keep tabs on me.
 <br><br>
 <img alt="Rust" src="https://img.shields.io/badge/Rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
