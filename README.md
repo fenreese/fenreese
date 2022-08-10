@@ -1,7 +1,7 @@
 <h1>Welcome to my profile! 👋</h1>
 <img src="penguin.webp" alt="dancing penguin" align="right" width="40%">
 <br>
-<p align="center"><b>Reese | they/she | 22</b></p>
+<p align="center"><b>they/she | 22</b></p>
 <p>
 I'm a third year university student with 2 years of development under my belt. I program whatever interests/bothers me at the moment.
 <br><br>
