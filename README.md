@@ -1,17 +1,26 @@
-<h1>Welcome to my profile! 👋</h1>
-<img src="penguin.webp" alt="dancing penguin" align="right" width="40%">
-<br>
-<p align="center"><b>they/she | 22</b></p>
+<h1 align="center">Hi there, I'm Reese! 👋</h1>
+<img src="foxsnax_rennysona_slightcrop.png" alt="An anthropomorphic representation of me." align="right" width="35%">
+
+<p align="center">
+  <b>he/she/they | 22 | also on <a href="https://gitlab.com/renys">Gitlab</a>!</b>
+</p>
+
 <p>
-I'm a third year university student with 2 years of development under my belt. I program whatever interests/bothers me at the moment.
-<br><br>
-Right now, I like <a href="https://www.rust-lang.org/">Rust</a> and <a href="https://www.typescriptlang.org/">TypeScript</a>. I'm also familiar with Java, Python, C++, and the HTML/CSS/JS stack.
-<br><br>
-When I'm not developing, I play rhythm games (and sometimes FPS games) and listen to music (you can find out my music taste <a href="https://www.last.fm/user/i-dle">here~</a>).
-<br><br>
-I've been committing more frequently over at <a href="https://gitlab.com/renys">GitLab</a>, if you wanted to keep tabs on me.
-<br><br>
-<img alt="Rust" src="https://img.shields.io/badge/Rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  I'm a third year computer science university student. I have a need to experiment with <strong>everything</strong> when it comes to programming. I'm also a teaching assistant, where I encourage students to develop their problem-solving skills and share code demos with them on my <a href="https://replit.com/@renys">Replit account.</a>
+  <br><br>
+  When I'm not developing, I play rhythm games (and sometimes FPS games) and listen to music (you can find out my music taste <a href="https://www.last.fm/user/i-dle">here~</a>).
+  <br><br>
+  Side art by <a href="https://twitter.com/foxsnax">@foxsnax on Twitter.</a>
+  <br><br>
+  Here are some things I have an interest in using/learning:
+  <br>
+  <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_BTW-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/>
+  <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img alt="NeoVim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324"/>
+  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 <hr class="dotted">
 <!-- lastfm -->
