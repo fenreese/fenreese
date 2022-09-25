@@ -10,7 +10,7 @@
   <br><br>
   When I'm not developing, I play rhythm games (and sometimes FPS games) and listen to music (you can find out my music taste <a href="https://www.last.fm/user/i-dle">here~</a>).
   <br><br>
-  Side art by <a href="https://twitter.com/foxsnax">@foxsnax on Twitter.</a>
+  Side art by <a href="https://twitter.com/foxsnax">@foxsnax</a>, icon by <a href="https://twitter.com/fixy_cookies">@fixy_cookies</a>.
   <br><br>
   Here are some things I have an interest in using/learning:
   <br>
