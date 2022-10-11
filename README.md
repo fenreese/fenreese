@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Reese! 👋</h1>
-<img src="foxsnax_rennysona_slightcrop.png" alt="An anthropomorphic representation of me." align="right" width="35%">
+<img src="kj.png" alt="Pixel art of Killjoy from the game Valorant." align="left" width="35%">
 
 <p align="center">
   <b>he/she/they | 22 | also on <a href="https://gitlab.com/renys">Gitlab</a>!</b>
@@ -10,7 +10,7 @@
   <br><br>
   When I'm not developing, I play rhythm games (and sometimes FPS games) and listen to music (you can find out my music taste <a href="https://www.last.fm/user/i-dle">here~</a>).
   <br><br>
-  Side art by <a href="https://twitter.com/foxsnax">@foxsnax</a>, icon by <a href="https://twitter.com/floaromaa/status/1544156562326839296">@floaromaa</a>.
+  Side art by <a href="https://www.reddit.com/r/PixelArt/comments/x6eupf/henloooo_sharing_my_valorant_pixel_fanart/">@icyyy_acyyy</a>, icon by <a href="https://twitter.com/floaromaa/status/1544156562326839296">@floaromaa</a>.
   <br><br>
   Here are some things I have an interest in using/learning:
   <br>
