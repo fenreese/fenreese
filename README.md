@@ -9,4 +9,4 @@
 <hr class="dotted">
 <br>
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a3bace190c859eb70de62187b97827e8.jpg" title="Akira Complex - HYPERSYNTHETIC"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/30ef0d3d35720910529fe026a2d2fe7c.jpg" title="Death Grips - The Money Store"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a3bace190c859eb70de62187b97827e8.jpg" title="Akira Complex - HYPERSYNTHETIC"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/f5f90569808084ca0b572d647c9cff1a.jpg" title="John Lennon - Plastic Ono Band"> </p>
