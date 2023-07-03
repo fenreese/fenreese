@@ -9,4 +9,4 @@
 <hr class="dotted">
 <br>
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a3bace190c859eb70de62187b97827e8.jpg" title="Akira Complex - HYPERSYNTHETIC"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/f5f90569808084ca0b572d647c9cff1a.jpg" title="John Lennon - Plastic Ono Band"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/7dc47a800dba55a03922e885b4611d2d.png" title="xaev - berdlycore chapter 2"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/a3bace190c859eb70de62187b97827e8.jpg" title="Akira Complex - HYPERSYNTHETIC"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/f5f90569808084ca0b572d647c9cff1a.jpg" title="John Lennon - Plastic Ono Band"> </p>
