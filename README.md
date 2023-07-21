@@ -9,4 +9,4 @@
 <hr class="dotted">
 <br>
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/f3673fed955eb71aed2098495e03337b.png" title="TWICE - Hare Hare"> </p>
