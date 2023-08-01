@@ -9,4 +9,4 @@
 <hr class="dotted">
 <br>
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/8a661f6b143a73ff2ced3b29f3ba8629.png" title="アトラスサウンドチーム - PERSONA5 ORIGINAL SOUNDTRACK"> </p>
