@@ -9,4 +9,4 @@
 <hr class="dotted">
 <br>
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/29051e14d6e1102634f09be0e1850683.jpg" title="aespa - Hold on Tight"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/9686de538a7ca3b967de4cc7e76e316b.jpg" title="aespa - Savage - The 1st Mini Album"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/e5ea297ba288af2d1515f615b5a559fa.jpg" title="George Harrison - All Things Must Pass (2014 Remaster)"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/097277f65990b90fea19241933cfbe91.jpg" title="Silentroom - Rainbow Frontier"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/29051e14d6e1102634f09be0e1850683.jpg" title="aespa - Hold on Tight"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/9686de538a7ca3b967de4cc7e76e316b.jpg" title="aespa - Savage - The 1st Mini Album"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/e5ea297ba288af2d1515f615b5a559fa.jpg" title="George Harrison - All Things Must Pass (2014 Remaster)"> </p>
