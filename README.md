@@ -9,4 +9,4 @@
 <hr class="dotted">
 <br>
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/bea961785851ef8cad248d60bb30ab11.jpg" title="Vengaboys - The Party Album!"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/0b4464519fbf385317f1bb4f6c6e61e1.jpg" title="Various Artists - Casablanca Records Greatest Hits"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/29051e14d6e1102634f09be0e1850683.jpg" title="aespa - Hold on Tight"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/a9a9a5e450ca43a2902682431a037303.jpg" title="The Black Keys - Ohio"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/bea961785851ef8cad248d60bb30ab11.jpg" title="Vengaboys - The Party Album!"> </p>
