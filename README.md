@@ -9,4 +9,4 @@
 <hr class="dotted">
 <br>
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1305b6fbaf874b12e838db1d874dc694.jpg" title="Jay Eazy - Mega Man"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/1b226727be070153df48897902e5c335.png" title="punchnello - LIME"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/fde181381e56b1b5d26f3600af58d087.jpg" title="Weezer - Weezer"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/fde181381e56b1b5d26f3600af58d087.jpg" title="Weezer - Weezer"> </p>
