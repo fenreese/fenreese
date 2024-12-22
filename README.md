@@ -12,6 +12,6 @@
 
 <span align="center">
 
-[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=emperte&show_user=header&width=500)](https://www.last.fm/user/emperte)
+<a href="https://last.fm/user/emperte"> <img src="https://lastfm-recently-played.vercel.app/api?user=emperte&show_user=header&width=500" alt="My last.fm recently played."> </a>
 
 </span>
