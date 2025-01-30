@@ -13,6 +13,7 @@
 <h1 align="center">Contributions</h1>
 
 <ul>
+ <li><strong><a href="https://github.com/ungive/discord-music-presence/">ungive/discord-music-presence</a></strong>: helped with Cider 2.0 detection for Linux and MacOS</li>
  <li><strong><a href="https://github.com/object-Object/discord-github-utils">object-Object/discord-github-utils</a></strong>: added <code>/gh user</code> slash command and made embeds prettier</li>
 </ul>
 
